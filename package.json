@@ -8,10 +8,6 @@
     "start": "node server.js",
     "lite-server": "lite-server"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
-  },
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -22,6 +18,7 @@
     "compression": "^1.7.4",
     "express": "^4.17.1",
     "lite-server": "^2.5.4",
+    "mongodb": "^3.6.4",
     "mongoose": "^5.9.27",
     "morgan": "^1.10.0"
   }
