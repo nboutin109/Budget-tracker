@@ -14,7 +14,8 @@
     <li>Open the terminal while viewing the files (CTRL + `)</li>
     <li>Run the command npm install in your terminal</li>
     <li>Edit line 18 of server.js with your MongoDB details</li>
-    <li>Open the index.html file in browser</li>
+    <li>Run the terminal command npm start</li>
+    <li>The webpage is now available on your device at localhost:3000</li>
 </ol>
 
 ## Built With
