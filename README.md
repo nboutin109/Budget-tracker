@@ -32,5 +32,5 @@
 </ul>
 
 ## Code Overview
-<p>The page is rendered and styled by the index.html and styles.css files in the public folder. The server and database connection are created with the server.js file and the only routes are back end API routes from the routes/api.js file. The models/transaction.js file defines the model for the database.</p>
+<p>This page is rendered and styled by the index.html and styles.css files in the public folder. The server and database connection are created with the server.js file and the only routes are back end API routes from the routes/api.js file. The models/transaction.js file defines the schema for the database.</p>
 
